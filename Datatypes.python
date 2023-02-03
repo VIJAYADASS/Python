@@ -1,0 +1,14 @@
+a=50
+b=29.4
+c=30 +2j
+type(a)
+type(b)
+type(c)
+
+Boolean, int, float ,complex
+ a = 10>5
+print(a)
+if(a<b):
+    print("hello")
+else:
+    print("ok")
