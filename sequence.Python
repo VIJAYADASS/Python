@@ -1,0 +1,24 @@
+list
+my_list = ["marvel", "spiderman", 3, 2.2]
+print(my_list)
+print(my_list[1])
+
+
+tuple
+t = (15, "thor", 79, "captain america")
+print(t)
+print(t[2])
+
+
+range 
+r  = range (1,10,2)
+print(r)
+ 
+r = range (1,10,2)
+q = list(r)
+print(q)
+
+r = list(range(1,10))
+print(r)
+
+ 
