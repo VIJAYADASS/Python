@@ -1,0 +1,23 @@
+n = 10
+print(-n)
+
+m = -20
+print(m)
+
+a = 10
+b = 20
+c = a<b
+print(c) 
+
+a = True
+b = False
+
+a and b 
+
+a or b
+
+not a
+  
+
+ 
+ 
