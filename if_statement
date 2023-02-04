@@ -1,0 +1,16 @@
+light = "red"
+if light =="red":
+ print("stop")
+else:
+ print("go")
+
+
+x = 0
+if x >=-:
+ print("positive")
+else:
+ print("negative")
+print("done")
+ 
+ 
+ 
