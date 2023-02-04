@@ -1,0 +1,25 @@
+a = 3
+b = 4
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a%b)
+
+a = 2**3
+print(a)
+
+a = 2*10*2 
+print(a)
+
+/* Assignment operators */
+
+x = 10
+y = 20
+z = x+y
+print(z)
+print(z+x)
+z-=x
+print(z)
+z/=x
+print(z)
