@@ -1,0 +1,6 @@
+x = 4
+y = 7
+print("multiply of 4 and 7 is", x*y)       /*  str+int  */
+print("hello"+"world")
+print("hello"+"   "+"world")
+ 
